@@ -1,2 +1,2 @@
 # NLP  
-Phân tích ngữ pháp
+Xử lý Ngôn ngữ tự nhiên
