@@ -1,5 +1,4 @@
-Đồ
-ăn
+Đồ_ăn
 hải_sản
 tươi
 ngon
@@ -28,8 +27,7 @@ và
 đối_tác
 .
 
-Đồ
-ăn
+Đồ_ăn
 tươi
 ngon
 chế_biến
@@ -42,8 +40,7 @@ quán
 Nghĩa_Ghẹ
 .
 
-Đồ
-ăn
+Đồ_ăn
 ngon
 ,
 hải_sản
@@ -97,7 +94,8 @@ cải_tạo
 lại
 ,
 sân_cỏ
-đẹp,
+đẹp
+,
 khán_đài
 được
 làm
@@ -273,8 +271,7 @@ nhiệt_tình
 thân_thiện
 ,
 gói
-quà
-tặng
+quà_tặng
 theo
 nhiều
 phong_cách
@@ -619,7 +616,7 @@ tốt
 Tôi
 thấy
 sự
-trung_thự
+trung_thực
 và
 hỗ_trợ
 khách_hàng
@@ -678,8 +675,7 @@ tận_tình
 chu_đáo
 .
 
-Toàn
-bộ
+Toàn_bộ
 chăn
 ,
 gối
