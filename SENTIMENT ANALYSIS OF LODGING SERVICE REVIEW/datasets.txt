@@ -1,0 +1,1 @@
+Quy Nhon AI Challenge dataset: https://github.com/vectornguyen76/QN-Hackathon-CTA-Matrix/tree/main/datasets
